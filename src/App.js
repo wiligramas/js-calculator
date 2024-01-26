@@ -12,6 +12,7 @@ function App() {
     if(display === '0'){
       setDisplay(number);
     } else {
+      //eslint-disable-next-line
       setDisplay(display + number)
     }
   };
@@ -21,8 +22,9 @@ function App() {
     setDisplay(display + ' ' + operator + ' ');
   };
 
-  const handleIqual = ( event ) => {
-    setDisplay(eval(display));
+  const handleIqual = () => {
+  // eslint-disable-next-line
+    setDisplay(eval(display));  
   };
 
   const handleDecimal = () => {
