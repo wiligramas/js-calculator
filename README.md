@@ -7,8 +7,8 @@
 
 ## 🚀Tecnologias 
 
-- HTML * React * TypeScript * CSS
-* Vite * Git e Github
+- React e CSS
+- Git e Github
 
  ### 🤙 [Link do site](https://wiligramasdev-js-calculator.netlify.app/)
 
