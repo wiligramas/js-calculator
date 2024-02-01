@@ -3,7 +3,7 @@
 
 > 💥 Trilha Front End Development Libraries
 
-## Olá! sejá muito bem-vindo/a ao meu querido programa de citação de frases aleatória 
+## Olá! sejá muito bem-vindo/a ao meu querido programa de calculadora 
 
 ## 🚀Tecnologias 
 
